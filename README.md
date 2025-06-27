@@ -43,6 +43,8 @@ Use-case 다이어그램
 
 - 주문 내역 확인 및 주문 처리 관리
 
+---
+
 # Use-case 다이어그램
 
 ![화면 캡처 2025-06-25 110853](https://github.com/user-attachments/assets/67cdbc62-5d6c-4617-8d02-049665521626)
