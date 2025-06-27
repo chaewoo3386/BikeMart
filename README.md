@@ -85,7 +85,7 @@ Use-case 다이어그램
 
 # Bike 패키지 설계
 
-![image](https://github.com/user-attachments/assets/bf88af0e-0231-4d50-a988-010c1428c55c)
+![image](https://github.com/user-attachments/assets/95b463c5-e483-4bdf-a337-5c3d5aefa6c6)
 
 # Member 패키지 설계
 
