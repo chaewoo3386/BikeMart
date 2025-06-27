@@ -87,6 +87,10 @@ Use-case 다이어그램
 
 ![image](https://github.com/user-attachments/assets/5602dd1f-ebfb-47f5-9cf6-0bc42ab921b3)
 
+# Order
+
+# Cart
+
 
 
 ---
