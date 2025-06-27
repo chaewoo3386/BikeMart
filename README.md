@@ -59,8 +59,13 @@ Use-case 다이어그램
 
 ### 기능요구사항
 
-1.자전거
+#### 1.자전거
 
+![image](https://github.com/user-attachments/assets/5c4fb8df-f314-4b44-99a7-137eb1f9b9bc)
+
+#### 2.
+
+![image](https://github.com/user-attachments/assets/122d1150-4ddf-4b6b-9ea3-cdd80bfe560d)
 
 
 # 클래스 다이어그램
