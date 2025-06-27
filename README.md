@@ -11,6 +11,8 @@
 
 프로젝트 목적
 
+메뉴/화면 시나리오
+
 Use-case 다이어그램
 
 요구 사항 명세서
@@ -44,6 +46,10 @@ Use-case 다이어그램
 - 주문 내역 확인 및 주문 처리 관리
 
 ---
+
+# 메뉴/화면 시나리오
+
+![image](https://github.com/user-attachments/assets/c7f959c5-645a-49ea-8b75-7c1a204242ca)
 
 # Use-case 다이어그램
 
