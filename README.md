@@ -87,7 +87,7 @@ Use-case 다이어그램
 
 ![image](https://github.com/user-attachments/assets/5602dd1f-ebfb-47f5-9cf6-0bc42ab921b3)
 
-![image](https://github.com/user-attachments/assets/818b86c2-1ac9-4c67-899f-58a1722f5d69)
+
 
 ---
 
