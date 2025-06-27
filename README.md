@@ -49,6 +49,8 @@ Use-case 다이어그램
 
 ![화면 캡처 2025-06-25 110853](https://github.com/user-attachments/assets/67cdbc62-5d6c-4617-8d02-049665521626)
 
+---
+
 # 요구 사항 명세서
 
 ## 요구사항 정의
@@ -57,16 +59,27 @@ Use-case 다이어그램
 
 ## 요구사항 명세
 
-### 기능요구사항
+### 기능 요구사항
 
-#### 1.자전거
+#### 1. 자전거
 
 ![image](https://github.com/user-attachments/assets/5c4fb8df-f314-4b44-99a7-137eb1f9b9bc)
 
-#### 2.
+#### 2. 사용자
 
-![image](https://github.com/user-attachments/assets/122d1150-4ddf-4b6b-9ea3-cdd80bfe560d)
+![image](https://github.com/user-attachments/assets/035d42b5-a83e-48ce-a80f-8f2742b0e13b)
 
+### 비기능 요구사항
+
+#### 1. 데이터
+
+![image](https://github.com/user-attachments/assets/de0398cd-ac49-4f82-a855-06219c4f4c90)
+
+#### 2. 시스템 환경
+
+![image](https://github.com/user-attachments/assets/9657787f-a829-4da7-ab49-143cd9184504)
+
+---
 
 # 클래스 다이어그램
 
