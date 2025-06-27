@@ -101,7 +101,7 @@ Use-case 다이어그램
 
 # Order 패키지 설계
 
-
+![image](https://github.com/user-attachments/assets/65e59980-128d-4866-a0cb-a8cc96abf850)
 
 # Cart 패키지 설계
 
