@@ -89,9 +89,11 @@ Use-case 다이어그램
 
 # Member 패키지 설계
 
-![image](https://github.com/user-attachments/assets/5602dd1f-ebfb-47f5-9cf6-0bc42ab921b3)
+![image](https://github.com/user-attachments/assets/0b0a244b-f945-471f-a49d-a7b1ecaa14e8)
 
 # Order 패키지 설계
+
+
 
 # Cart 패키지 설계
 
