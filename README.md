@@ -51,6 +51,8 @@ Use-case 다이어그램
 
 ![image](https://github.com/user-attachments/assets/c7f959c5-645a-49ea-8b75-7c1a204242ca)
 
+---
+
 # Use-case 다이어그램
 
 ![화면 캡처 2025-06-25 110853](https://github.com/user-attachments/assets/67cdbc62-5d6c-4617-8d02-049665521626)
