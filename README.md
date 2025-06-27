@@ -83,13 +83,17 @@ Use-case 다이어그램
 
 # 클래스 다이어그램
 
+# Bike 패키지 설계
+
 ![image](https://github.com/user-attachments/assets/bf88af0e-0231-4d50-a988-010c1428c55c)
+
+# Member 패키지 설계
 
 ![image](https://github.com/user-attachments/assets/5602dd1f-ebfb-47f5-9cf6-0bc42ab921b3)
 
-# Order
+# Order 패키지 설계
 
-# Cart
+# Cart 패키지 설계
 
 
 
